@@ -16,3 +16,5 @@
 ## Notes
 
 The `template.lua` file show you how to use it ;)
+
+## If you want to support me and my work : [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3ZE4W8Y626MA)
